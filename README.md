@@ -26,7 +26,7 @@ A simple Python toolkit that helps you transform your bank’s CSV statement int
 
 # Step 1: Convert CSV → JSON
 
-python create\_json\_from\_csv.py "2024\_Statement.csv"
+python create_json_from_csv.py "2024_Statement.csv"
 
 
 
@@ -38,7 +38,7 @@ python get_details_from_json.py "2024_Statement.json" [optional: month-year]
 
 # Or run both steps with:
 
-run_for_details.bat "2024_Statement.csv"
+run_for_details.bat "2024_Statement.csv" [optional: month-year]
 
 
 
