@@ -1,7 +1,3 @@
-Here’s a **professional and well-structured README.md** for your project 👇
-
----
-
 # 💰 Bank Transaction Analyzer (CSV → JSON → Insights + LangGraph Chat)
 
 This project automates the analysis of bank statements by converting CSV files into structured JSON, extracting financial insights (spending, income, monthly totals, top transactions), and enabling interactive chat-based queries using **LangGraph**, **OpenAI’s LLM**, and **Gradio**.
@@ -208,7 +204,3 @@ It will convert CSV → JSON → summarize details automatically.
 
 This project is released under the **MIT License**.
 Feel free to modify, extend, and use it in your own applications.
-
----
-
-Would you like me to include a **“Quick Demo GIF section”** and auto-generate a **requirements.txt** for your current files? I can prepare both next.
